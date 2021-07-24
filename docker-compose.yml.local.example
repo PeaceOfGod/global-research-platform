@@ -29,8 +29,8 @@ services:
       - AUTH_REDIRECT_URL=http://localhost:3000
       - JWT_ALGORITHM=HS256
       - GITHUB_DOMAIN=github.com
-      - GITHUB_CLIENT_ID=somegithubclientid
-      - GITHUB_CLIENT_SECRET=somegihubclientsecret
+      - GITHUB_CLIENT_ID=73030908660-lgrmt2lh0biodt8hmpmj8prp93s29aem.apps.googleusercontent.com
+      - GITHUB_CLIENT_SECRET=JalFQxsWCNbqByYVp7Jy7xgl
       - GITHUB_USER_URL=https://api.github.com/user
       - GOOGLE_DOMAIN=accounts.google.com
       - GOOGLE_CLIENT_ID=somegoogleclientid
